@@ -1,5 +1,5 @@
 // A few versions of a C program I worte, playing with formatting, trying to demonstrate ASLR
-// A good way to check against a binary is with the command,'ldd <PE> | grep libc'
+// A good way to check against a binary is with the command,'ldd <ELF> | grep libc'
 
 
 // Description by line
